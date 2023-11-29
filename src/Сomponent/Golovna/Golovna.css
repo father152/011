@@ -1,0 +1,75 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.golovna-1 {
+  text-align: center;
+  margin-top: 30px;
+  position: relative;
+  background-color: rgba(220, 220, 220, 1);
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.golovna-1 img {
+  width: 85%;
+  height: 370px;
+}
+.golovna-2 img {
+  width: 85%;
+  height: 604px;
+}
+.golovna-1 h1 {
+  font-family: sans-serif;
+  font-size: 75px;
+  font-weight: bold;
+  color: antiquewhite;
+  position: absolute;
+  top: 70px;
+  left: 456px;
+}
+.golovna-1 p {
+  font-family: sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: antiquewhite;
+  position: absolute;
+  top: 173px;
+  left: 122px;
+}
+/* =================================== */
+.golovna-2 {
+  text-align: center;
+  margin-top: 30px;
+  position: relative;
+  background-color: rgba(220, 220, 220, 1);
+  margin: 0 auto;
+}
+.carusel button {
+  color: beige;
+  font-size: 24px;
+  background-color: rgba(32, 40, 70, 1);
+  font-family: sans-serif;
+  padding: 10px 20px;
+  border-radius: 30px;
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+.golovna-2 p {
+  display: flex;
+  width: 64%;
+  height: 120px;
+  background-color: azure;
+ opacity: 0.5;
+ position: absolute;
+ left: 100px;
+ bottom: 0;
+ font-size: 15px;
+ font-family: sans-serif;
+font-style: italic;
+align-items: center;
+color: rgb(0, 0, 0);
+font-weight: 700;
+
+}
